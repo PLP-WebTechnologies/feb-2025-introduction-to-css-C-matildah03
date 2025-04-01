@@ -1,5 +1,6 @@
-# Introduction to CSS
 
+![_3](https://github.com/user-attachments/assets/503b96de-7cd1-46c9-b3ac-749080896953)
+# Introduction to CSS
 ## Objectives
 Link an external CSS file to an HTML document.
 Apply basic styling using selectors.
